@@ -3,7 +3,10 @@
 
 <toc label="Nodeclipse Help" topic="contents/toc.html">
 	<topic label="Main Topic"  href="html/maintopic.html"/>
+	<topic label="Configuration"  href="contents/.configuration.md.html"/>
+	<topic label="Run"  href="contents/.run.md.html"/>
+	<topic label="Debug"  href="contents/.debug.md.html"/>
 	<topic label="CoffeeScript"  href="contents/.coffeescript.md.html"/>
-	<topic label="TypeScript"  href="contents/.typescript.md.htmll"/>
+	<topic label="TypeScript"  href="contents/.typescript.md.html"/>
 	<link toc="toc.xml" />
 </toc>

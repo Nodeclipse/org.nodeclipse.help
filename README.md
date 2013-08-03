@@ -11,6 +11,7 @@ Online help URL <https://github.com/Nodeclipse/org.nodeclipse.help/tree/master/c
 ## Developing
 
 http://javatime.no/blog/inplace-activator-overview/
+Works great in first time, then cann't refresh -> Use 'Launch Eclipse application' link from plugin.xml Overview tab.
 
 using Markdown ->HTML conversion
 

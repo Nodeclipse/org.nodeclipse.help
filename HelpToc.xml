@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="Nodeclipse Help" topic="contents/toc.html">
+	<topic label="Main Topic"  href="html/maintopic.html"/>
+	<topic label="CoffeeScript"  href="contents/.coffeescript.md.html"/>
+	<topic label="TypeScript"  href="contents/.typescript.md.htmll"/>
+	<link toc="toc.xml" />
+</toc>

@@ -11,3 +11,10 @@ Online help URL <https://github.com/Nodeclipse/org.nodeclipse.help/tree/master/c
 ## Developing
 
 http://javatime.no/blog/inplace-activator-overview/
+
+using Markdown ->HTML conversion
+
+Ideas:
+- marked - quick but command line util is dumb
+- https://github.com/aponxi/grunt-readme-generator
+

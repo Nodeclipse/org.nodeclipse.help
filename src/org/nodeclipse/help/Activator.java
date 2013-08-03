@@ -1,4 +1,4 @@
-package pluginproject1;
+package org.nodeclipse.help;
 
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;

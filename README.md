@@ -12,6 +12,8 @@ Online help URL <https://github.com/Nodeclipse/org.nodeclipse.help/tree/master/c
 
 ## Developing
 
+get Nodeclipse NTS or SDK, or get all [plugins](http://www.nodeclipse.org/updates/list)
+
 http://javatime.no/blog/inplace-activator-overview/
 Works great in first time, then cann't refresh -> Use 'Launch Eclipse application' link from plugin.xml Overview tab.
 

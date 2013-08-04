@@ -1,3 +1,5 @@
+Title:  Nodeclipse Online Help - TypeScript  
+
 
 
 ## TypeSctipt Editor

@@ -1,3 +1,5 @@
+Title:  Nodeclipse Online Help - Configuration  
+
 ## Configuration
 
 Some recommended configuration (These steps are needed for every new workspace):

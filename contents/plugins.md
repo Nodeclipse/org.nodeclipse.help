@@ -1,3 +1,4 @@
+Title:  Nodeclipse Online Help - Plugins  
 
 # Install more
 

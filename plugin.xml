@@ -9,7 +9,7 @@
             primary="true">
       </toc>
       <toc
-            file="toc.xml">
+            file="LinkedToc.xml">
       </toc>
    </extension>
 

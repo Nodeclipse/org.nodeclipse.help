@@ -22,6 +22,14 @@ Window -> Show View -> Other... -> REST Client -> REST Client Tool
 #### [NTS](http://www.nodeclipse.org/nts/) Only
 
 Window -> Show View -> Other... -> MiniMap -> MiniMap
+
+#### File associations
+
+Window -> Preferences -> General -> Editors -> File Associations <kbd>Add...</kbd>
+
+- *.jade - associate with Scrapbook (from JDT)
+- *.ejs - associate with HTML Editor (from WebTools)
+
   
 ### Before 0.4
   

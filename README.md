@@ -1,4 +1,4 @@
-# Integratedin into Nodeclipse-1
+# Integrated into Nodeclipse-1
 
 `org.nodeclipse.help` is now part of Nodeclipse-1. See
 <https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.help>
